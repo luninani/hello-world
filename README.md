@@ -14,6 +14,10 @@ Just another repository. (Numeros Malvados - Evil Numbers)
 	
 In English:
 	Quiz1MeyerConstanzaPerez.c (Fibonacci Numbers - Octal Base - Prime Numbers)
+	
+		This ia small piece of code that verifies if a number is bigger than 1, and if it belongs to the Fibonacci series.
+		If that happens, it continues to pass its position in the Fibonacci series to octal base, for example: 1,1,2,3,5,8 and if you input the number 8, the number 8 is position 6 in the series and in octal base is 6.
+		If the number doesn't belong to the Fibonacci series, the code will tell you if it is a prime number or not, for example: 10 does not belong to the Fibonacci series and it is not prime.
 		
 En Español:
 	Quiz1MeyerConstanzaPerez.c (Números Fibonacci - Base Octal - Números Primos)
