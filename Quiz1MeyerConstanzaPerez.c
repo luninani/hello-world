@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-/* 
-Constanza Eugenia Perez Borga
-C.I. 25 222 470
-Carnet 2014 111 0253
-*/
 int main()
 {   int num;
     int x,y,z;
