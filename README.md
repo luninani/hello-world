@@ -1,17 +1,7 @@
 # hello-world
 
-Just another repository. (Numeros Malvados - Evil Numbers)
+Just another repository.
 
-	El archivo numeros_malvados.c :
-		Esto es basicamente un pedazito de codigo para decidir si un numero es malvado o no.
-	The file numeros_malvados.c :
-		This is a basically a short piece of code to decide wether a number is an evil number or not.
-		
-	El archivo numeros_malvados_conestructuras.c :
-		Esto es basicamente un pedazito de codigo con subprogramas para decidir si un numero es malvado o no.
-	The file numeros_malvados_conestructuras.c :
-		This is a basically a short piece of code with subprograms to decide wether a number is an evil number or not.
-	
 In English:
 	Fibonacci_Octal_Prime.c (Fibonacci Numbers - Octal Base - Prime Numbers)
 	
